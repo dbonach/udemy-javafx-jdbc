@@ -12,8 +12,6 @@ import java.util.Map;
 import java.util.ResourceBundle;
 import java.util.Set;
 
-import org.postgresql.core.BaseStatement;
-
 import db.DbException;
 import gui.listeners.DataChangeListener;
 import gui.util.Alerts;
